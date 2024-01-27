@@ -31,6 +31,13 @@ Bienvenue dans notre application web de restaurant ! Cette application a été d
 .Bootstrap
 .JavaScript
     - [AOS](https://github.com/michalsnik/aos): Bibliothèque pour ajouter des animations au défilement.
+## les interfaces 
+![app1](https://github.com/Ameur-bellil/Ameur-bellil.github.io/assets/146889587/437e8bf1-f62e-47e6-86fa-4f0df32e77fe)
+![cap2](https://github.com/Ameur-bellil/Ameur-bellil.github.io/assets/146889587/72959ccf-83a7-42e0-be43-9cfeef996af3)
+![app3](https://github.com/Ameur-bellil/Ameur-bellil.github.io/assets/146889587/938a210a-e78b-4093-b218-e2b8c8fcedb4)
+![app4](https://github.com/Ameur-bellil/Ameur-bellil.github.io/assets/146889587/743efa35-9ff2-47c8-be4d-9ab2c42301ef)
+![image](https://github.com/Ameur-bellil/Ameur-bellil.github.io/assets/146889587/82811b7c-b30f-4711-8699-cc5e58494ffa)
+
 
 ## Licence
 Ce projet est sous licence MIT.
